@@ -1,0 +1,26 @@
+header {
+    font-size: 2em;
+    padding: 2px 8px 17px 446px;
+    color: #37bde5;
+}
+li{
+float:left;
+
+}
+ul{
+    margin: -26px -31px 63px -8px;
+  list-style-type: none;
+overflow:hidden;
+background-color:#0de9c0;
+}
+li a{
+display:block;
+ color: #0a0306;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+font-size:40px;
+}
+li a:hover{
+background-color:white;
+}
